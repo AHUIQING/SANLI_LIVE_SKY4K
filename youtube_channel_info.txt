@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | SANLI LIVE |  |
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=pJ0VgJloR9E
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/channel/UC2TuODJhC03pLgd6MpWP0iw/live
